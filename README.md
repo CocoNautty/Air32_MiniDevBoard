@@ -3,6 +3,8 @@ An Air32 board designed by me, with 40 available pins, usb-powering, and auto-bu
 
 ## Gerber and Simulation
 
+This project is implemented by 嘉立创EDA.
+
 ### Gerber Pictures
 
 <img src="./src/front1.jpg" alt="gerber_front" width="350" /> <img src="./src/back1.jpg" alt="gerber_back" width="350" /> 
