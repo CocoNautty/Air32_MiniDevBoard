@@ -9,7 +9,7 @@ An Air32 board designed by me, with 40 available pins, usb-powering, and auto-bu
 
 ### Simulation Pictures
 
-<img src="./src/front2.jpg" alt="simulation_front" width="350" /> <img src="./src/back2.jpg" alt="simulation_back" width="350" />
+<img src="./src/front2.jpg" alt="simulation_front" width="350" /><img src="./src/back2.jpg" alt="simulation_back" width="350" />
 
 
 
