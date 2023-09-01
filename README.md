@@ -5,6 +5,15 @@ An Air32 board designed by me, with 40 available pins, usb-powering, and auto-bu
 
 ### Gerber Pictures
 
-<img src="./src/back.jpg" alt="gerber_front" style="zoom:50%;" />
+![gerber_front](./src/front1.jpg)
 
-<img src="./src/front.jpg" alt="gerber_front" style="zoom:50%;" />
+![gerber_back](./src/back1.jpg)
+
+### Simulation
+
+![simulation_front](./src/front2.jpg)
+
+![simulation_back](./src/back2.jpg)
+
+
+
