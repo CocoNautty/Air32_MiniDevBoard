@@ -15,7 +15,9 @@ This project is implemented by 嘉立创EDA.
 
 <img src="./src/front2.jpg" alt="simulation_front" width="350" /><img src="./src/back2.jpg" alt="simulation_back" width="350" />
 
+## Functions
 
+To be tested. The factory is still manufacturing. 
 
 
 
