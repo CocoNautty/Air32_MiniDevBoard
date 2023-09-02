@@ -1,4 +1,6 @@
 # Air32_MiniDevBoard
+<img src="./src/avatar.bmp" alt="avatar" width="60">
+
 An Air32 board designed by me, with 40 available pins, usb-powering, and auto-burning circuit.
 
 ## Gerber and Simulation
