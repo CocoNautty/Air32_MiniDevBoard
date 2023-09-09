@@ -17,7 +17,15 @@ This project is implemented by 嘉立创EDA.
 
 ## Functions
 
-To be tested. The factory is still manufacturing. 
+### Actual Appearance
 
+<img src="./src/front3.jpg" alt="front3" height="265" /> <img src="./src/back3.jpg" alt="back3" height="265" />
 
+### Voltage Regulator Circuit
+
+As can be seen from the picture, when powered with 5 volts, the power led is lit, and is much brighter than 
+
+the other led.
+
+<img src="./src/usb_powered.jpg" alt="powered" width="500" />
 
