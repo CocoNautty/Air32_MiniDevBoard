@@ -23,9 +23,7 @@ This project is implemented by 嘉立创EDA.
 
 ### Voltage Regulator Circuit
 
-As can be seen from the picture, when powered with 5 volts, the power led is lit, and is much brighter than 
-
-the other led.
+As can be seen from the picture, when powered with 5 volts, the power led is lit, and is much brighter than the other led.
 
 <img src="./src/usb_powered.jpg" alt="powered" width="500" />
 
